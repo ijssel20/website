@@ -41,9 +41,10 @@ body {
       opacity: 1;
       background-image: none;
       background-color: transparent;
-      top: 0%;
+      top: 5%;
       height: 27px;
-      width: 39.82%;
+      width: 250px;
+      padding-top: 3px;
     }
 
 h1, h2, h3, h4, h5, h6 {
@@ -58,6 +59,7 @@ h2 {
 
     a:link {
       color: rgb(0, 0, 255);
+        text-underline-offset: 3px;
     }
     a:hover {
       color: rgb(0, 0, 255);
